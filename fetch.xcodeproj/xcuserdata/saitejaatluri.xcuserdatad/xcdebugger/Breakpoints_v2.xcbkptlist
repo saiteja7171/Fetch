@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A6B2EE4-B2D0-4C5D-9734-FB4A2DCFFD54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3160016-8B59-468C-95E2-E2C6CDFD9F01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetch/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchDessertDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3160016-8B59-468C-95E2-E2C6CDFD9F01 - 132c3c3e87590b62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in fetch.DessertDetailView.body.getter : some"
+                  moduleName = "fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saitejaatluri/Desktop/iOS%20Development/fetch/fetch/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "C3160016-8B59-468C-95E2-E2C6CDFD9F01 - a732b64f5428b355"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetch.DessertDetailView.fetchDessertDetails() -&gt; ()"
+                  moduleName = "fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saitejaatluri/Desktop/iOS%20Development/fetch/fetch/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38095D68-7838-4391-9CBF-70FD310F065A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetch/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "fetchDessertDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38095D68-7838-4391-9CBF-70FD310F065A - 132c3c3e87590b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in fetch.DessertDetailView.body.getter : some"
+                  moduleName = "fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saitejaatluri/Desktop/iOS%20Development/fetch/fetch/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "38095D68-7838-4391-9CBF-70FD310F065A - a732b64f5428b3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetch.DessertDetailView.fetchDessertDetails() -&gt; ()"
+                  moduleName = "fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saitejaatluri/Desktop/iOS%20Development/fetch/fetch/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "38095D68-7838-4391-9CBF-70FD310F065A - d4e6c21086253c6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetch.DessertDetailView.fetchDessertDetails() -&gt; ()"
+                  moduleName = "fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saitejaatluri/Desktop/iOS%20Development/fetch/fetch/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
